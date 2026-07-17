@@ -7,8 +7,8 @@ dashboard.
 
 [Download Lists Pro for Apple Silicon macOS](https://github.com/emptystring-dev/listspro/releases/latest/download/stable-macos-arm64-ListsPro.dmg)
 
-The first release is still being prepared. The download link becomes active when the
-private source repository publishes `v0.1.0`.
+If no release has been published yet, the download link becomes active with the first
+stable build.
 
 ## Install
 
